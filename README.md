@@ -1,1 +1,1 @@
-# k-means
+# k-means for smoe points
